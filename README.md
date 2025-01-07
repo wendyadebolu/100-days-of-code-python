@@ -18,7 +18,7 @@ Here's a list of projects I plan to work on. This index will be updated regularl
 
 | Day | Project | Description |
 |-----|---------|-------------|
-| 1   | [Band Name Generator] | This app randomly generates band names using some specified logic. |
+| 1   | [Band Name Generator] | This script randomly generates band names using some specified logic. |
 | 2   | [BMI Calculator]) | Calculates BMI after taking input for height and weight. |
 | 3   | [Tip Calculator]) | Calculates tip after taking input for percentage of tip to give, total bill and total number of persons. |
 | ... | ...     | ...         |
@@ -40,9 +40,9 @@ Feel free to fork this repository and adapt these projects as you see fit. If yo
 
 ## Connect With Me
 
-- **GitHub:** [GitHub]([Your GitHub link](https://github.com/wendyadebolu))
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/seth-wendy/)
-- **Twitter:** [Twitter](https://x.com/sethwendyy)
+- **GitHub:** (https://github.com/wendyadebolu)
+- **LinkedIn:** (https://www.linkedin.com/in/seth-wendy/)
+- **Twitter:** (https://x.com/sethwendyy)
 
 ## Acknowledgments
 
