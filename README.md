@@ -48,6 +48,7 @@ Feel free to fork this repository and adapt these projects as you see fit. If yo
 ## Acknowledgments
 
 - Thanks to all the developers and communities that have shared tools and libraries that have been instrumental in these projects.
+- Course I am currently following --> https://www.udemy.com/course/100-days-of-code/?couponCode=NEWYEARCAREER
 
 ## License
 
