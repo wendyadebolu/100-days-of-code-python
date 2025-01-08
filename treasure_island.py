@@ -70,7 +70,7 @@ if choice1 == "left":
                     \____/
 
         ''')
-        choice3 = input(f"You have arrived at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue."
+        choice3 = input(f"You have arrived at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. "
               f"Which color do you choose? Type 'Red' or 'Yellow' or 'Blue'\n ").lower()
         if choice3 == "yellow":
             print('''
