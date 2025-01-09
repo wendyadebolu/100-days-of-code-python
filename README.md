@@ -22,6 +22,7 @@ Here's a list of projects I plan to work on. This index will be updated regularl
 | 2   | BMI Calculator | Calculates BMI after taking input for height and weight. |
 | 3   | Tip Calculator | Calculates tip after taking input for percentage of tip to give, total bill and total number of persons. |
 | 4   | Treasure island game |  Using some inputs from you this is a fun game with some ascii art visuals|
+| 5  | Rock Paper Scissors Game |  Using some inputs from you this is a fun game with some ascii art visuals, where users could win against the computer using the Python in built random module|
 | ... | ...     | ...         |
 | 100 | [Project Name](Link-to-project) | Brief description of the project. |
 
