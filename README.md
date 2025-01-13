@@ -25,6 +25,7 @@ Here's a list of projects I plan to work on. This index will be updated regularl
 | 5  | Rock Paper Scissors Game |  Using some inputs from you this is a fun game with some ascii art visuals, where users could win against the computer using the Python in built random module|
 | 6  | Random password generator |  Using some inputs from you, python loops, range, and random.shuffle in-built modules i built a random password generator to help us generate new random password with a mix of letters, symbols and numbers.|
 | 7  | Hangman Game |  https://www.wikihow.com/Play-Hangman|
+| 8  | Caesar cipher game |  Using learnings from day 8, Functions, Loops, Conditional statements, modules import, inputs and logical operators i built this game, works exactly like a mini version of caesar cipher to encode or decode words and handles errors nicely
 | ... | ...     | ...         |
 | 100 | [Project Name](Link-to-project) | Brief description of the project. |
 
