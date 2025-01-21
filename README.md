@@ -27,6 +27,7 @@ Here's a list of projects I plan to work on. This index will be updated regularl
 | 7  | Hangman Game |  https://www.wikihow.com/Play-Hangman|
 | 8  | Caesar cipher game |  Using learnings from day 8, Functions, Loops, Conditional statements, modules import, inputs and logical operators i built this game, works exactly like a mini version of caesar cipher to encode or decode words and handles errors nicely
 | 9  | Blind Auction | 
+| 10  | Calculator  | 
 | ... | ...     | ...         |
 | 100 | [Project Name](Link-to-project) | Brief description of the project. |
 
